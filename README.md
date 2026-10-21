@@ -57,7 +57,7 @@ For project-specific instructions, configuration, and database setup, refer to t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nehamulanihub/Java-Practicals-and-Project.git
+git clone https://github.com/pk5230148-a11y/Adv-java
 ```
 
 ### 2. Open the Project Folder
@@ -106,9 +106,9 @@ Through these practicals and projects, I aim to:
 
 ## 👩‍💻 Author
 
-**Neha Mulani**
+**Pankaj Kumar**
 
-GitHub: [@nehamulanihub](https://github.com/nehamulanihub)
+GitHub: [@pk5230148-a11y](https://github.com/pk5230148-a11y)
 
 ## 📄 License
 
