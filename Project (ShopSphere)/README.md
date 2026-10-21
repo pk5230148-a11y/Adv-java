@@ -135,9 +135,9 @@ This project provides practical experience with web application development, CRU
 
 ## 👩‍💻 Developer
 
-**Neha Mulani**
+**Pankaj Kumar**
 
-GitHub: [@nehamulanihub](https://github.com/nehamulanihub)
+GitHub: [@pk5230148-a11y](https://github.com/pk5230148-a11y/Adv-java)
 
 ## 📄 License
 
